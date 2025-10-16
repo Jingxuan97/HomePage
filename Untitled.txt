@@ -1,0 +1,13 @@
+<p style="text-align:left">NEMESISPY is an open source software I developed during my PhD. It performs atmospheric retrievals on telescope observations of exoplanets, which can help us understand what they are made of. NEMESISPY has been used to estimate the abundance of H<sub>2</sub>O, NH<sub>3</sub>, and CO on the hot Jupiter <a href="https://academic.oup.com/mnras/article/532/1/460/7692040" target="_blank">WASP-43b</a>, infer the presence of a secondary atmosphere and possible sulphur species on the super-Earth <a href="https://iopscience.iop.org/article/10.3847/2041-8213/ad73d0" target="_blank">L98-59d</a>, and constrain the atmospheric metallicity of the ultra-hot Jupiter <a href="https://academic.oup.com/mnras/article/543/3/2442/8255897" target="_blank">KELT-7b</a>.</p>
+
+infer the presence of a secondary Atmosphere and Possible
+
+Sulfur Species 
+
+  <a href="https://www.nature.com/articles/s41550-024-02401-w" target="_blank">here</a>.</p>
+
+NEMESISPY is an open source Python package I developed during my PhD. It can perform atmospheric retrievals on space telescope observations of exoplanets, which can help us understand their compositions. 
+
+NEMESISPY can be used for parametric atmospheric modelling and radiative transfer calculation, and can be easily interfaced with Bayesian inference algorithms. 
+
+ to retrieve information from space telescope spectra of exoplanets. 
