@@ -11,3 +11,11 @@ NEMESISPY is an open source Python package I developed during my PhD. It can per
 NEMESISPY can be used for parametric atmospheric modelling and radiative transfer calculation, and can be easily interfaced with Bayesian inference algorithms. 
 
  to retrieve information from space telescope spectra of exoplanets. 
+
+WASP-43b is a Jupiter-sized exoplanet orbiting a star roughly 280 light-years away. The planet completes an entire orbit around its host star in about 19.5 hours, which is a mere fraction of the 88-day orbit of Mercury. How such objects form in the first place is an interesting puzzle in exoplanet science. With the help of powerful space telescopes such as the Hubble Space Telescope and the James Webb Space Telescope, I constrained the composition of WASP-43b using atmospheric retrievals, which revealed a high-metallicity, high carbon-to-oxygen ratio atmosphere. Consequently, WASP-43b likely formed in a metal-rich environment with enhanced carbon content, possibly due to the inward drift of CO pebbles in the proto-planetary disc.  
+
+
+-- for reference, the orbital period of Mercury is 88 days. 
+
+
+exoplanet that is similar to Jupiter in size and mass but orbits its star with a period of about 19.5 hours. 
